@@ -30,7 +30,7 @@ module.exports = {
   caption: process.env.CAPTION || "`©QUEEN_ANITA-V2`",
   author: process.env.PACK_AUTHER || "QUEEN_ANITA-V2",
   packname: process.env.PACK_NAME || "A N I T A",
-  botname: process.env.BOT_NAME || "QUEEN_ANITA-V2",
+  botname: process.env.BOT_NAME || "JIRAYA_BOT-V2",
   ownername: process.env.OWNER_NAME || "David Cyril",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
