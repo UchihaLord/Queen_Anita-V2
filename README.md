@@ -29,13 +29,20 @@
 
 ### 2. GET SESSION ID HERE
 
-<a href='https://mainv2-f66485a0f702.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+### SERVER 1
+ 
+<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-### DEPLOY ON SCALINGO
+<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
-1. If you don't have an account in Scalingo, create one and deploy.
-    <br>
-    <a href='https://auth.scalingo.com/users/sign_in' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=scalingo&logoColor=white'/></a>
+### SERVER 2 
+### GET SESSION ID HERE
+
+<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
+### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
+
 
 ### DEPLOY ON RENDER
 
@@ -80,59 +87,41 @@
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # 
-Queen_Anita-V2 is a easy to use WhatsApp bot. 
 
-### Termux Setup
-```js
-termux-setup-storage
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [QUEEN_ANITA-V2](https://github.com/Itxxwasi/WASI-MD-V2) ON ANY TERMINAL
+```
+sudo apt -y update && sudo apt -y upgrade
 ```
 ```
-apt update
+sudo apt -y install git ffmpeg curl
 ```
 ```
-apt upgrade
+curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
 ```
 ```
-pkg update && pkg upgrade
+sudo -E bash nodesource_setup.sh
 ```
 ```
-pkg install bash
+sudo apt-get install -y nodejs
 ```
 ```
-pkg install libwebp
+sudo npm install -g yarn
 ```
 ```
-pkg install git -y
+sudo yarn global add pm2
 ```
 ```
-pkg install nodejs -y
+git clone https://github.com/DeeCeeXxxx/Queen_Anita-V2 DeeCeeXxx
+cd DeeCeeXxx
+yarn install
 ```
 ```
-pkg install ffmpeg -y 
+echo "SESSION_ID : ENTER YOUR SESSION ID HERE" > config.env
 ```
 ```
-pkg install wget
-```
-```
-pkg install imagemagick -y
-```
-```
-git clone https://github.com/DeeCeeXxx/Queen_Anita-V2
-```
-```
-cd Queen_Anita-V2
-```
-```
-npm i
-```
-```
-npm start
+pm2 start . --name Itxxwasi --attach --time
 ```
 
-- Command For 24/7
-```js
-npm i -g forever && forever index.js && forever save && forever logs
-```
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -143,26 +132,32 @@ npm i -g forever && forever index.js && forever save && forever logs
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 
+  
 
 - *Queen_Anita-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
   
-  #### ```TOTAL PROFILE VIEWS 🧚```
+  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) 
+
+## HELPERS
+
+<a href="https://github.com/astrofx0011"><img src="https://github.com/astrofx0011.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Itxxwasi.png?size=100" width="100" height="100">](https://github.com/Itxxwasi) 
+---|---
+[Astrofx](https://github.com/astrofx0011)  | [Wasi](https://github.com/itxxwasi)
+Plugins | Bug Fixer & Help |
 
 ## Support
 
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VafEBFX2Jl8DSYclsS08"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VafEBFXhttps://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
 <b>Version -> 2.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
